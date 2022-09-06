@@ -1,7 +1,7 @@
 ---
 - name: ePMP Linktest - Fake Tower
   hosts: lab_cambium
-  strategy: linear
+#  strategy: linear
   gather_facts: false
   vars:
 
